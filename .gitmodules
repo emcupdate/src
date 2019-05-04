@@ -1,0 +1,42 @@
+[submodule "emc.theme"]
+	path = emc.theme
+	url = git@github.com:emcupdate/emc.theme.git
+[submodule "emc.policy"]
+	path = emc.policy
+	url = git@github.com:emcupdate/emc.policy.git
+[submodule "plone.dexterity"]
+	path = plone.dexterity
+	url = git@github.com:emcupdate/plone.dexterity.git
+[submodule "pas.plugins.sqlalchemy"]
+	path = pas.plugins.sqlalchemy
+	url = git@github.com:emcupdate/pas.plugins.sqlalchemy.git
+[submodule "mockup"]
+	path = mockup
+	url = git@github.com:emcupdate/mockup.git
+[submodule "emc.memberArea"]
+	path = emc.memberArea
+	url = git@github.com:emcupdate/emc.memberArea.git
+[submodule "emc.project"]
+	path = emc.project
+	url = git@github.com:emcupdate/emc.project.git
+[submodule "emc.kb"]
+	path = emc.kb
+	url = git@github.com:emcupdate/emc.kb.git
+[submodule "emc.bokeh"]
+	path = emc.bokeh
+	url = git@github.com:emcupdate/emc.bokeh.git
+[submodule "emc.auth"]
+	path = emc.auth
+	url = git@github.com:emcupdate/emc.auth.git
+[submodule "collective.gtags"]
+	path = collective.gtags
+	url = git@github.com:emcupdate/collective.gtags.git
+[submodule "collective.filepreviewbehavior"]
+	path = collective.filepreviewbehavior
+	url = git@github.com:emcupdate/collective.filepreviewbehavior.git
+[submodule "Products.PlonePAS"]
+	path = Products.PlonePAS
+	url = git@github.com:emcupdate/Products.PlonePAS.git
+[submodule "plone.app.locales"]
+	path = plone.app.locales
+	url = git@github.com:emcupdate/plone.app.locales.git
