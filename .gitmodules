@@ -40,3 +40,6 @@
 [submodule "plone.app.locales"]
 	path = plone.app.locales
 	url = git@github.com:emcupdate/plone.app.locales.git
+[submodule "emc.sync"]
+	path = emc.sync
+	url = git@github.com:emcupdate/emc.sync.git
